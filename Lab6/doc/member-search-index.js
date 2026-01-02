@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI306.Markovich.Lab6","c":"TruckDriver","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"KI306.Markovich.Lab6","c":"TruckDriver","l":"TruckDriver()","u":"%3Cinit%3E()"}];updateSearchResults();
